@@ -1,6 +1,8 @@
 # ResearchReader Usage Guide
 
-ResearchReader is a Python script that converts Markdown research files into optimized speech audio using the Kokoro-82M text-to-speech model. It enhances the listening experience by adding pauses after headers and varying speech speed for better focus.
+ResearchReader is a Python script that converts Markdown research files into optimized speech audio using the Kokoro-82M text-to-speech model.
+https://github.com/remsky/Kokoro-FastAPI
+It enhances the listening experience by adding pauses after headers and varying speech speed for better focus.
 
 ## Prerequisites
 
